@@ -2,8 +2,9 @@ import  React from 'react'
 
 import Wallpaper from './wallpaper'
 import hulk from '../img/hulk-1.jpg';
-import venom from '../img/venom-1.jpg'
 import venom2 from '../img/venom-2.jpg'
+import venom from '../img/venom-1.jpg'
+
 
 
 
